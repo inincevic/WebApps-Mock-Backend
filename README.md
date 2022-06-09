@@ -1,11 +1,8 @@
-# May 23rd, start of backend
-This backend is being written with frontend mostly completed.
+# June 9th
+These files were copied from 'WebApps-Project-Backend' which can be found on my profile.
 
-Unfortunately, database is not done yet as MongoDB being NoSQL database discouraged me entirely.
-Here I will use Python and Flask.
+All commits can be seen there.
 
-For the starting phase I'll use some hard coded data just to test frontend-backend communication.
+I will be continuing backend progress in that repository.
 
-# May 24th, change in language
-While Flask does sound cool, I can't find any good guides for creating it and connecting it to a pre-existing frontend.
-That's why I have decided to try and get a javascript backend running.
+There is currently no connection to a database in this file.
